@@ -1,13 +1,7 @@
-# sellingappx
+# GoFullstackFrontend
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-this is an app where people can sign up and login using email and password
-backend : node & express and MONGO DB database
-frontend: ANgular js using Typescript
+## Development server
 
-npm install 
-ng serve in the front end directory
-
-but you must install angular cli upfront.. 
-
-fork this repositery and enjoy
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
